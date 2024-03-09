@@ -1,0 +1,7 @@
+- Numpy -> for numerical analysis
+- Pandas -> for reading the Data and analysing data
+- Matplotlib ->  for visualization 
+- Seaborn -> for Visualization
+- Scikit Learn -> for Impelementing Machine Learning Algorithms
+- Tensorflow -> for implementing Deep Learning 
+- Keras ->  for Implementing Deep Learning

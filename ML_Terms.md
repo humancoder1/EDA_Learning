@@ -1,0 +1,5 @@
+- <b>Target</b> => Category or Value that we are trying to Predict
+- <b>Features</b> => properties of the data used for prediction , explanatory variables
+- <b>Example</b> => a single data point within the data , or a single row in the dataset also calles <b>Observation</b>
+- <b>Label</b> =>  the target value for a single data point or single Example.
+-
